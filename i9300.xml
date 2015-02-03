@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<!-- Replaced projects -->
-		<remove-project name="CyanogenMod/android_bionic" />
+		<remove-project name="temasek/android_bionic" />
 		<project name="arter97/android_bionic-temasek_i9300" path="bionic" remote="github" />
 
-		<remove-project name="CyanogenMod/android_frameworks_av" />
+		<remove-project name="temasek/android_frameworks_av" />
 		<project name="arter97/android_frameworks_av-temasek_i9300" path="frameworks/av" remote="github" />
 
-		<remove-project name="CyanogenMod/android_frameworks_base" />
+		<remove-project name="temasek/android_frameworks_base" />
 		<project name="arter97/android_frameworks_base-temasek_i9300" path="frameworks/base" remote="github" />
 
-		<remove-project name="CyanogenMod/android_frameworks_native" />
+		<remove-project name="temasek/android_frameworks_native" />
 		<project name="arter97/android_frameworks_native-temasek_i9300" path="frameworks/native" remote="github" />
 
 	<!-- /Replaced projects -->
