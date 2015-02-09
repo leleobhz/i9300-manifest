@@ -13,6 +13,9 @@
 		<remove-project name="temasek/android_frameworks_native" />
 		<project name="arter97/android_frameworks_native-temasek_i9300" path="frameworks/native" remote="github" />
 
+		<remove-project name="temasek/android_external_dhcpcd" />
+		<project name="arter97/android_external_dhcpcd" path="external/dhcpcd" remote="github" />
+
 	<!-- /Replaced projects -->
 
 	<!-- Devices -->
